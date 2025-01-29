@@ -26,8 +26,8 @@ A **fully responsive** restaurant website built using **HTML, CSS, JavaScript, a
 This project is licensed under the MIT License. See the LICENSE file for details
 
 ##✨ Author
-👤 [Srishanth Reddy Narra]
-📧 Email: srishanthreddy456@gmail.com
-🔗 Mobile no: +91-8328214109
-📌 LinkedIn: linkedin.com/in/yourprofile
+👤 [Srishanth Reddy Narra]<br>
+📧 Email: srishanthreddy456@gmail.com<br>
+🔗 Mobile no: +91-8328214109<br>
+📌 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/srishanth-reddy-narra-61a1142a0/)
 
