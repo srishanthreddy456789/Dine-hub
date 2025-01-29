@@ -34,7 +34,9 @@ About,Delivery and Payment:
 
 <img src="image/about,delivery and payment.png"/>
 
+Gift card and Follow us:
 
+<img src="image/gift card and follow us.png"/>
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details
 
