@@ -20,7 +20,9 @@ A **fully responsive** restaurant website built using **HTML, CSS, JavaScript, a
 
 ## 📸 Screenshots
 
-*(Add relevant screenshots here to showcase the website design.)*
+Home page:
+
+<img src="image/home.png"/>
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details
