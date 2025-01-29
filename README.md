@@ -22,10 +22,10 @@ A **fully responsive** restaurant website built using **HTML, CSS, JavaScript, a
 
 *(Add relevant screenshots here to showcase the website design.)*
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details
 
-##✨ Author
+## ✨ Author
 👤 [Srishanth Reddy Narra]<br>
 📧 Email: srishanthreddy456@gmail.com<br>
 🔗 Mobile no: +91-8328214109<br>
