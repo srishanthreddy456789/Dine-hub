@@ -24,6 +24,17 @@ Home page:
 
 <img src="image/home.png"/>
 
+Menu page:
+
+
+<img src="image/menu.png"/>
+
+
+About,Delivery and Payment:
+
+<img src="image/about,delivery and payment.png"/>
+
+
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details
 
