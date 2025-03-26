@@ -1,7 +1,7 @@
 # 🍽️ Restaurant Website
 
 A **fully responsive** restaurant website built using **HTML, CSS, JavaScript, and Bootstrap**. The website provides an elegant and user-friendly interface to showcase restaurant services, menu, and contact details.
-## LINK:-https://srishanthreddy.ccbp.tech/
+## LINK:-[https://srishanthreddy.ccbp.tech/](https://srishanthreddy456789.github.io/Dine-hub/)
 
 ## 📸 Screenshots
 
